@@ -10,6 +10,12 @@
 * 	Template Style 
 *  color: #46484A;
 * ======================================================= */
+.edit {
+    vertical-align: top !important;
+}
+.some {
+   background: rgba(70, 72, 82, 0.3)
+}
 body {
   font-family: "Work Sans", Arial, sans-serif;
   font-weight: 400;
