@@ -57,13 +57,13 @@ body {
 }
 
 a {
-  color: #F14E95;
+  color: rgba(54, 195, 176, 0.54);
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #F14E95;
+  color: rgba(54, 195, 176, 0.54);
   outline: none;
   text-decoration: none;
 }
@@ -81,17 +81,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #F14E95;
+  background: rgba(54, 195, 176, 0.54);
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #F14E95;
+  background: rgba(54, 195, 176, 0.54);
 }
 
 ::selection {
   color: #fff;
-  background: #F14E95;
+  background: rgba(54, 195, 176, 0.54);
 }
 
 .fh5co-nav {
@@ -109,7 +109,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 .fh5co-nav #fh5co-logo {
-  font-size: 30px;
+  font-size: 25px;
   margin: 0;
   padding: 0;
   line-height: 40px;
@@ -206,7 +206,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .fh5co-nav ul li.btn-cta a {
-  color: #F14E95;
+  color: rgba(54, 195, 176, 0.54);
 }
 .fh5co-nav ul li.btn-cta a span {
   background: #fff;
@@ -780,7 +780,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #F14E95;
+  color: rgba(54, 195, 176, 0.54);
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -799,7 +799,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .fh5co-contact-info ul li:before {
-  color: #F14E95;
+  color: rgba(54, 195, 176, 0.54);
   position: absolute;
   left: 0;
   top: .05em;
@@ -891,7 +891,7 @@ form label {
 .fh5co-cover .display-tc .btn {
   padding: 15px 20px;
   background: #fff !important;
-  color: #F14E95;
+  color: rgba(54, 195, 176, 0.54);
   border: none !important;
   font-size: 14px;
   text-transform: uppercase;
@@ -1055,7 +1055,7 @@ form label {
   font-size: 20px;
   background: #fff;
   padding: 20px;
-  color: #F14E95;
+  color: rgba(54, 195, 176, 0.54);
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -1078,7 +1078,7 @@ form label {
 }
 .couple-half h3 {
   font-family: "Sacramento", Arial, serif;
-  color: #F14E95;
+  color: rgba(54, 195, 176, 0.54);
   font-size: 30px;
 }
 .couple-half .groom, .couple-half .bride {
@@ -1171,7 +1171,7 @@ form label {
   height: 90px;
   font-size: 40px;
   line-height: 40px;
-  color: #F14E95;
+  color: rgba(54, 195, 176, 0.54);
 }
 .feature-center p, .feature-center h3 {
   margin-bottom: 30px;
@@ -1193,7 +1193,7 @@ form label {
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: bold;
-  color: #F14E95;
+  color: rgba(54, 195, 176, 0.54);
   font-family: "Sacramento", Arial, serif;
 }
 @media screen and (max-width: 768px) {
@@ -1228,7 +1228,7 @@ form label {
   display: block;
 }
 #fh5co-testimonial .wrap-testimony .testimony-slide span a.twitter {
-  color: #F14E95;
+  color: rgba(54, 195, 176, 0.54);
   font-weight: 300;
 }
 #fh5co-testimonial .wrap-testimony .testimony-slide figure {
@@ -1320,7 +1320,7 @@ form label {
   display: table-cell;
   vertical-align: middle;
   font-size: 30px;
-  color: #F14E95;
+  color: rgba(54, 195, 176, 0.54);
 }
 .feature-left .feature-copy {
   float: left;
@@ -1386,7 +1386,7 @@ form label {
 #fh5co-started .btn {
   height: 54px;
   border: none !important;
-  background: #F14E95;
+  background: rgba(54, 195, 176, 0.54);
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -1430,7 +1430,7 @@ form label {
 }
 .owl-carousel .owl-controls .owl-dot.active span {
   background: transparent;
-  border: 2px solid #F14E95;
+  border: 2px solid rgba(54, 195, 176, 0.54);
 }
 
 #fh5co-offcanvas {
@@ -1683,9 +1683,9 @@ form label {
 }
 
 .btn-primary {
-  background: #F14E95;
+  background: rgba(54, 195, 176, 0.54);
   color: #fff;
-  border: 2px solid #F14E95;
+  border: 2px solid rgba(54, 195, 176, 0.54);
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #f366a3 !important;
@@ -1693,11 +1693,11 @@ form label {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #F14E95;
-  border: 2px solid #F14E95;
+  color: rgba(54, 195, 176, 0.54);
+  border: 2px solid rgba(54, 195, 176, 0.54);
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #F14E95;
+  background: rgba(54, 195, 176, 0.54);
   color: #fff;
 }
 
@@ -1827,7 +1827,7 @@ form label {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #F14E95;
+  border-color: rgba(54, 195, 176, 0.54);
 }
 
 .row-pb-md {
