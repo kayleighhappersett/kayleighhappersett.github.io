@@ -26,7 +26,7 @@ body {
 }
 .fancyfont
 {
-    font-family: "Sacramento", Arial, serif; 
+    font-family: "Sacramento", Arial, serif !important; 
 }
 
 #page {
@@ -113,7 +113,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0;
   padding: 0;
   line-height: 40px;
-  font-family: "Sacramento", Arial, serif;
+  font-family: "Sacramento", Arial, serif !important;
 }
 .fh5co-nav a {
   padding: 5px 10px;
@@ -856,7 +856,7 @@ form label {
   margin-bottom: 0px;
   font-size: 100px;
   line-height: 1.5;
-  font-family: 'Sacramento', cursive;
+  font-family: 'Sacramento', cursive !important;
 }
 @media screen and (max-width: 768px) {
   #fh5co-header .display-tc h1,
@@ -1077,7 +1077,7 @@ form label {
   }
 }
 .couple-half h3 {
-  font-family: "Sacramento", Arial, serif;
+  font-family: "Sacramento", Arial, serif !important;
   color: rgba(54, 195, 176, 0.54);
   font-size: 30px;
 }
@@ -1194,7 +1194,7 @@ form label {
   line-height: 1.5;
   font-weight: bold;
   color: rgba(54, 195, 176, 0.54);
-  font-family: "Sacramento", Arial, serif;
+  font-family: "Sacramento", Arial, serif !important;
 }
 @media screen and (max-width: 768px) {
   .fh5co-heading h2 {
