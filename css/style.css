@@ -10,6 +10,9 @@
 * 	Template Style 
 *  color: #46484A;
 * ======================================================= */
+@media screen and (max-width: 500px) {
+   
+}
 .edit {
     vertical-align: top !important;
 }
@@ -106,6 +109,12 @@ h1, h2, h3, h4, h5, h6, figure {
 @media screen and (max-width: 768px) {
   .fh5co-nav {
     padding: 20px 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .fh5co-nav a {
+    font-size: 40px;
+    white-space: nowrap;
   }
 }
 .fh5co-nav #fh5co-logo {
